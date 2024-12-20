@@ -1,0 +1,5 @@
+env: "local"
+database_pass: "adm"
+http:
+  address: ":8082"
+  timeout: 5m
